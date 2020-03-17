@@ -6,6 +6,6 @@ class Yvs
 
 		System.out.println("hello mahesh");
 
-		System.out.println("iam venkates");
+		System.out.println("iam venkat");
 	}
 }
